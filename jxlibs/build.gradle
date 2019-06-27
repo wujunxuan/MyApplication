@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.novoda.bintray-release'
 
 publish{
-    userOrg = 'wujunxuan66'
+    userOrg = 'wujunxuan'
     groupId = 'com.example.jxlibs'
     artifactId = 'jxlibs'
     publishVersion = '1.0.1'
